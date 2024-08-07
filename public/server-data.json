@@ -3,116 +3,116 @@
     {
       "timestamp": "2023-10-06T00:00:00Z",
       "cpuLoad": 12,
-      "freeMemory": 2048,
-      "freeDiskSpace": 50000
+      "freeMemory": 20.48,
+      "freeDiskSpace": 50.00
     },
     {
       "timestamp": "2023-10-06T00:00:01Z",
       "cpuLoad": 15,
-      "freeMemory": 2038,
-      "freeDiskSpace": 49990
+      "freeMemory": 20.38,
+      "freeDiskSpace": 48.99
     },
     {
       "timestamp": "2023-10-06T00:00:02Z",
       "cpuLoad": 17,
-      "freeMemory": 2025,
-      "freeDiskSpace": 49980
+      "freeMemory": 20.25,
+      "freeDiskSpace": 46.98
     },
     {
       "timestamp": "2023-10-06T00:00:03Z",
       "cpuLoad": 14,
-      "freeMemory": 2000,
-      "freeDiskSpace": 49975
+      "freeMemory": 20.00,
+      "freeDiskSpace": 44.97
     },
     {
       "timestamp": "2023-10-06T00:00:04Z",
       "cpuLoad": 18,
-      "freeMemory": 1990,
-      "freeDiskSpace": 49960
+      "freeMemory": 19.90,
+      "freeDiskSpace": 40.96
     },
     {
       "timestamp": "2023-10-06T00:00:05Z",
       "cpuLoad": 16,
-      "freeMemory": 1985,
-      "freeDiskSpace": 49950
+      "freeMemory": 19.85,
+      "freeDiskSpace": 38.95
     },
     {
       "timestamp": "2023-10-06T00:00:06Z",
       "cpuLoad": 19,
-      "freeMemory": 1970,
-      "freeDiskSpace": 49940
+      "freeMemory": 19.70,
+      "freeDiskSpace": 36.94
     },
     {
       "timestamp": "2023-10-06T00:00:07Z",
       "cpuLoad": 20,
-      "freeMemory": 1955,
-      "freeDiskSpace": 49930
+      "freeMemory": 19.55,
+      "freeDiskSpace": 34.93
     },
     {
       "timestamp": "2023-10-06T00:00:08Z",
       "cpuLoad": 22,
-      "freeMemory": 1940,
-      "freeDiskSpace": 49920
+      "freeMemory": 19.40,
+      "freeDiskSpace": 32.92
     },
     {
       "timestamp": "2023-10-06T00:00:09Z",
       "cpuLoad": 23,
-      "freeMemory": 1930,
-      "freeDiskSpace": 49910
+      "freeMemory": 19.30,
+      "freeDiskSpace": 30.91
     },
     {
       "timestamp": "2023-10-06T00:00:10Z",
       "cpuLoad": 24,
-      "freeMemory": 1915,
-      "freeDiskSpace": 49900
+      "freeMemory": 19.15,
+      "freeDiskSpace": 28.90
     },
     {
       "timestamp": "2023-10-06T00:00:11Z",
       "cpuLoad": 25,
-      "freeMemory": 1900,
-      "freeDiskSpace": 49890
+      "freeMemory": 19.00,
+      "freeDiskSpace": 26.89
     },
     {
       "timestamp": "2023-10-06T00:00:12Z",
       "cpuLoad": 27,
-      "freeMemory": 1890,
-      "freeDiskSpace": 49880
+      "freeMemory": 18.90,
+      "freeDiskSpace": 24.88
     },
     {
       "timestamp": "2023-10-06T00:00:13Z",
       "cpuLoad": 29,
-      "freeMemory": 1885,
-      "freeDiskSpace": 49870
+      "freeMemory": 18.85,
+      "freeDiskSpace": 22.87
     },
     {
       "timestamp": "2023-10-06T00:00:14Z",
       "cpuLoad": 21,
-      "freeMemory": 1870,
-      "freeDiskSpace": 49860
+      "freeMemory": 20.70,
+      "freeDiskSpace": 22.86
     },
     {
       "timestamp": "2023-10-06T00:00:15Z",
       "cpuLoad": 18,
-      "freeMemory": 1860,
-      "freeDiskSpace": 49850
+      "freeMemory": 20.60,
+      "freeDiskSpace": 22.85
     },
     {
       "timestamp": "2023-10-06T00:00:16Z",
       "cpuLoad": 15,
-      "freeMemory": 1870,
-      "freeDiskSpace": 49840
+      "freeMemory": 24.70,
+      "freeDiskSpace": 24.84
     },
     {
       "timestamp": "2023-10-06T00:00:17Z",
       "cpuLoad": 13,
-      "freeMemory": 1880,
-      "freeDiskSpace": 49830
+      "freeMemory": 22.80,
+      "freeDiskSpace": 24.83
     },
     {
       "timestamp": "2023-10-06T00:00:18Z",
       "cpuLoad": 15,
-      "freeMemory": 1890,
-      "freeDiskSpace": 49820
+      "freeMemory": 20.90,
+      "freeDiskSpace": 28.82
     }
   ]
 }
